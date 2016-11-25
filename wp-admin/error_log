@@ -1,0 +1,2 @@
+[04-Nov-2016 21:03:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/mayubandele/public_html/ambassade/wp-content/plugins/revslider/includes/framework/cssparser.class.php on line 152
+[11-Nov-2016 07:12:53 UTC] PHP Fatal error:  Cannot redeclare wxr_cdata() (previously declared in /home/mayubandele/public_html/ambassade/wp-content/plugins/menu-exporter/menu-exporter.php:69) in /home/mayubandele/public_html/ambassade/wp-admin/includes/export.php on line 148
